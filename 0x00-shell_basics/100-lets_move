@@ -1,2 +1,2 @@
-#!/bin/bash
-my ((:upper:))* /tmp/w
+#!/bin/bash 
+mv [[:upper:]]* /tmp/u
